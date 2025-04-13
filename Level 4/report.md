@@ -39,7 +39,7 @@ P.S. [бобра](https://youtu.be/OHHpYXQyQO4?si=2woGUnuGSOyQrcOh) оценил
 не знаю, кстати, почему но e!Ensembl разучился загружать fasta файл, и возвращает мне txt при выбраном fasta
 
 
-# Рил - результаты
+## Рил - результаты
 и вау вау вау, что-то мы да получили
 
 ![скрин3](./resourses/result.png)
@@ -110,3 +110,9 @@ mafft --genafpair --maxiterate 1000 ./fasta/formed.fasta > ./fasta/maffted.fasta
 ему чет не понравилось
 
 ![mufft_end](./resourses/mufft_result.png)
+
+я попробовал запуситить его на другом пк где чуть побольше RAM, он съел всё
+
+![mafft_RAM](./resourses/mafft_RAM.png)
+
+## У меня перестал работать VSCode, слетели все плагины, а mafft так и не запустился без ошибки
