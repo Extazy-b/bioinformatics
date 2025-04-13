@@ -1,6 +1,6 @@
-of = open("formed.fasta", 'w')
+of = open("./fasta/formed.fasta", 'w')
 
-with open("./result.fasta") as f:
+with open("./fasta/result.fasta") as f:
     for line in f:
         if line[0] != '>':
             of.write(line)
