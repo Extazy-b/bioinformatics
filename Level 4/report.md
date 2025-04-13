@@ -25,7 +25,7 @@ P.S. [бобра](https://youtu.be/OHHpYXQyQO4?si=2woGUnuGSOyQrcOh) оценил
 
 ## Результаты(не результаты)
 
-Пама-пам-пам, с первого раза и не могло не получиться
+Пам-пам-пам, с первого раза и не могло не получиться
 
 ![скрин2](./resourses/error.png)
 
@@ -110,4 +110,3 @@ mafft --genafpair --maxiterate 1000 ./fasta/formed.fasta > ./fasta/maffted.fasta
 ему чет не понравилось
 
 ![mufft_end](./resourses/mufft_result.png)
-
